@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/ed25519_sign_verify.dir/main.c.o CMakeFiles/ed25519_sign_verify.dir/src/verify.c.o CMakeFiles/ed25519_sign_verify.dir/src/sign.c.o  -o ed25519_sign_verify /usr/lib/x86_64-linux-gnu/libcrypto.a 
