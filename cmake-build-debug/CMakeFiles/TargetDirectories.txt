@@ -1,3 +1,0 @@
-/home/haojun/Developer/ed25519_sign_verify/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/home/haojun/Developer/ed25519_sign_verify/cmake-build-debug/CMakeFiles/ed25519_sign_verify.dir
-/home/haojun/Developer/ed25519_sign_verify/cmake-build-debug/CMakeFiles/edit_cache.dir
