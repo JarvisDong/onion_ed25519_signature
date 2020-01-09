@@ -1,7 +1,3 @@
-//
-// Created by haojun on 8/1/20.
-//
-
 #include "../header/sign.h"
 
 int

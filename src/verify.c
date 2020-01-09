@@ -1,7 +1,7 @@
 /*
-	Public domain by Andrew M. <liquidsun@gmail.com>
+  Public domain by Andrew M. <liquidsun@gmail.com>
 
-	Ed25519 reference implementation using Ed25519-donna
+  Ed25519 reference implementation using Ed25519-donna
 */
 #include "../header/sign.h"
 int
