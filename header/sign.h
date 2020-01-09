@@ -19,7 +19,7 @@ int
 ed25519_donna_sign(unsigned char *sig, const unsigned char *m, size_t mlen,
                    const unsigned char *sk, const unsigned char *pk);
 
-ed25519_sign_open(const unsigned char *m, size_t mlen, const ed25519_public_key pk, const ed25519_signature RS);
+int ed25519_sign_open(const unsigned char *m, size_t mlen, const ed25519_public_key pk, const ed25519_signature RS);
 
 static void
 ed25519_hram(hash_512bits hram, const ed25519_signature RS, const ed25519_public_key pk, const unsigned char *m, size_t mlen) {
